@@ -9,11 +9,14 @@ The purpose of this project is to build on a webpage that uses a dynamic table b
 To use this webapp and query UFO sighting, a visitor must:
 
 * Select a parameter to filter on
-![]()
+![](https://github.com/nishavenkatesh11/UFOs/blob/main/static/images/img-1.png)
+
 * Type in filter parameter of their choice into the input boxes provided pictured above
-![]()
+![](https://github.com/nishavenkatesh11/UFOs/blob/main/static/images/img-2.png)
+
 * Explore the filtered table to discover UFO sightings
-![]()
+![](https://github.com/nishavenkatesh11/UFOs/blob/main/static/images/img-3.png)
+
 * Clear input boxes to reset the filters
 
 ## Summary
